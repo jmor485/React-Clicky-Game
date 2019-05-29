@@ -1,6 +1,7 @@
 # React-Clicky-Game
- 
-<img src="my-app/public/img.png" alt="Screenshot"/>
+Don't click the same card twice!
 
- Play Here:
+Play Here:
  https://whispering-river-31879.herokuapp.com/
+
+<img src="my-app/public/img.png" alt="Screenshot"/>
