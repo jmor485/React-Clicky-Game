@@ -1,7 +1,9 @@
-import React from 'react';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
 import Card from "./components/Card";
 import cards from "./cards.json";
+import Header from "./components/Header";
+import Wrapper from "./components/Wrapper";
 
 class App extends Component {
   state = {
@@ -25,6 +27,7 @@ class App extends Component {
   }
 
   clickCount = id => {
+    // eslint-disable-next-line array-callback-return
     this.state.cards.find((o, i) => {
       if (o.id === id) {
         if(cards[i].count === 0){

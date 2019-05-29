@@ -1,8 +1,10 @@
 .header {
     width: 100%;
     font-size: 2rem;
-    color: #2A77AE;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(34, 192, 240);
     margin-bottom: 10px;
+    font-weight: bold;
   }
   
   .title {
