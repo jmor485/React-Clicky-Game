@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Watermelon",
+      "image": "https://images.unsplash.com/photo-1539248519424-b4b8f9a99a4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Bananas",
+      "image": "https://images.unsplash.com/photo-1558035579-a10d04acf787?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Oranges",
+      "image": "https://images.unsplash.com/photo-1555328425-c29bc27e91c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Apples",
+      "image": "https://images.unsplash.com/photo-1535622380377-1e347c44a12d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Eggs",
+      "image": "https://images.unsplash.com/photo-1533908947131-15c503df4db7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Lemons",
+      "image": "https://images.unsplash.com/photo-1535622471392-578dd5840841?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Broccoli",
+      "image": "https://images.unsplash.com/photo-1533910063084-5b1b485d2c35?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Avocado",
+      "image": "https://images.unsplash.com/photo-1533908529530-c0aaa365d36b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Donuts",
+      "image": "https://images.unsplash.com/photo-1533910534207-90f31029a78e?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Strawberries",
+      "image": "https://images.unsplash.com/photo-1558035498-265faf6ba813?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Banana",
+      "image": "https://images.unsplash.com/photo-1534854398572-76f3e29bca38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Donut",
+      "image": "https://images.unsplash.com/photo-1534073737927-85f1ebff1f5d?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80",
+      "count": 0
+    }
+  ]
+  
